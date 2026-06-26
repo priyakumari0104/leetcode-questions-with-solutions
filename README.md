@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0013-roman-to-integer) |
 | [0151-reverse-words-in-a-string](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0686-repeated-string-match](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0686-repeated-string-match) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -27,4 +28,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0013-roman-to-integer) |
+## String Matching
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0686-repeated-string-match) |
 <!---LeetCode Topics End-->
