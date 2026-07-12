@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0165-compare-version-numbers](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0165-compare-version-numbers) |
 | [0876-middle-of-the-linked-list](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0876-middle-of-the-linked-list) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## String
 |  |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0203-remove-linked-list-elements) |
 | [0237-delete-node-in-a-linked-list](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0876-middle-of-the-linked-list) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
 |  |
