@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0038-count-and-say) |
 | [0151-reverse-words-in-a-string](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0151-reverse-words-in-a-string) |
@@ -85,5 +86,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
