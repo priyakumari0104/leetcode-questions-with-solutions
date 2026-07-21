@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0013-roman-to-integer) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## String Matching
 |  |
 | ------- |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0234-palindrome-linked-list) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2487-remove-nodes-from-linked-list](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Stack
 |  |
@@ -102,11 +104,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0503-next-greater-element-ii](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0682-baseball-game) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Simulation
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0682-baseball-game) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -123,4 +127,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0901-online-stock-span) |
+## Queue
+|  |
+| ------- |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 <!---LeetCode Topics End-->
