@@ -14,24 +14,16 @@
  * }
  */
 class Solution {
-    public boolean isSameTree(TreeNode p, TreeNode m) {
-        Queue<TreeNode> q = new LinkedList<>();
-        q.add(p);
-        q.add(m);
-
-        while (q.size() > 0) {
-            TreeNode first = q.poll();
-            TreeNode seond = q.poll();
-            if (first == null && seond == null) {
-                continue;
-            } else if (first == null || seond == null || first.val != seond.val) {
-                return false;
-            }
-            q.add(first.left);
-            q.add(seond.left);
-            q.add(first.right);
-            q.add(seond.right);
+    public boolean isSameTree(TreeNode p, TreeNode q) {
+        if(p==null&& q==null){
+            return true;
         }
-        return true;
+        if(p==null||q==null){
+            return false;
+        }
+        if(p.val!=q.val){
+            return false;
+        }
+        return isSameTree(p.left,q.left)&&isSameTree(p.right,q.right);
     }
 }
