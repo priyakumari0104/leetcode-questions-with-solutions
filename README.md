@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0404-sum-of-left-leaves) |
+| [0617-merge-two-binary-trees](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0617-merge-two-binary-trees) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0404-sum-of-left-leaves) |
+| [0617-merge-two-binary-trees](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0617-merge-two-binary-trees) |
 ## Binary Tree
 |  |
 | ------- |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0404-sum-of-left-leaves) |
+| [0617-merge-two-binary-trees](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0617-merge-two-binary-trees) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -196,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0404-sum-of-left-leaves) |
+| [0617-merge-two-binary-trees](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0617-merge-two-binary-trees) |
 ## Backtracking
 |  |
 | ------- |
