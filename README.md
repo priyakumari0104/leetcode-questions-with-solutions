@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0404-sum-of-left-leaves) |
 | [0617-merge-two-binary-trees](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0617-merge-two-binary-trees) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0404-sum-of-left-leaves) |
 | [0617-merge-two-binary-trees](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0617-merge-two-binary-trees) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Binary Tree
 |  |
 | ------- |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0404-sum-of-left-leaves) |
 | [0617-merge-two-binary-trees](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0617-merge-two-binary-trees) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -203,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0404-sum-of-left-leaves) |
 | [0617-merge-two-binary-trees](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0617-merge-two-binary-trees) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Backtracking
 |  |
 | ------- |
@@ -215,4 +219,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 <!---LeetCode Topics End-->
