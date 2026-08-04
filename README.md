@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0686-repeated-string-match](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0686-repeated-string-match) |
 | [1544-make-the-string-great](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/1544-make-the-string-great) |
 | [1598-crawler-log-folder](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/1598-crawler-log-folder) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0901-online-stock-span](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0901-online-stock-span) |
 | [1544-make-the-string-great](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/1544-make-the-string-great) |
 | [1598-crawler-log-folder](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/1598-crawler-log-folder) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2487-remove-nodes-from-linked-list](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Array
@@ -286,4 +288,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0509-fibonacci-number](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/1137-n-th-tribonacci-number) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
