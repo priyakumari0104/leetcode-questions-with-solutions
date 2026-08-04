@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0257-binary-tree-paths) |
 | [0686-repeated-string-match](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0686-repeated-string-match) |
+| [1544-make-the-string-great](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/1544-make-the-string-great) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0682-baseball-game) |
 | [0901-online-stock-span](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0901-online-stock-span) |
+| [1544-make-the-string-great](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/1544-make-the-string-great) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2487-remove-nodes-from-linked-list](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Array
