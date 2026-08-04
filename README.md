@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1544-make-the-string-great](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/1544-make-the-string-great) |
 | [1598-crawler-log-folder](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/1598-crawler-log-folder) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2487-remove-nodes-from-linked-list](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Array
@@ -129,12 +130,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0682-baseball-game) |
 | [0746-min-cost-climbing-stairs](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [1598-crawler-log-folder](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/1598-crawler-log-folder) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Simulation
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0682-baseball-game) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Monotonic Stack
 |  |
@@ -159,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0232-implement-queue-using-stacks) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Tree
 |  |
