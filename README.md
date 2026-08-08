@@ -230,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0404-sum-of-left-leaves) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0547-number-of-provinces](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0404-sum-of-left-leaves) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0547-number-of-provinces](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
@@ -337,4 +339,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0547-number-of-provinces) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
