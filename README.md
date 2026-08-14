@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2000-reverse-prefix-of-word](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/2000-reverse-prefix-of-word) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/2696-minimum-string-length-after-removing-substrings) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3174-clear-digits](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/3174-clear-digits) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Dynamic Programming
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0496-next-greater-element-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Math
 |  |
 | ------- |
@@ -401,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Segment Tree
 |  |
 | ------- |
