@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/1510-stone-game-iv) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [2029-stone-game-ix](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/2029-stone-game-ix) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 ## String Matching
 |  |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
+| [2029-stone-game-ix](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -366,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0011-container-with-most-water) |
+| [2029-stone-game-ix](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/2029-stone-game-ix) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Union-Find
 |  |
@@ -384,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1140-stone-game-ii](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/2029-stone-game-ix) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -393,15 +397,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1140-stone-game-ii](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/2029-stone-game-ix) |
 ## Sprague–Grundy Theorem
 |  |
 | ------- |
@@ -423,4 +430,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0036-valid-sudoku) |
+## Counting
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
