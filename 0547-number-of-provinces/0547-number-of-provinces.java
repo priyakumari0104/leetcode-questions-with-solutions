@@ -1,30 +1,32 @@
 class Solution {
-    public int findCircleNum(int[][] mt) {
-        int n = mt.length;
-        int count = 0;
-        boolean visit[] = new boolean[n];
-        for (int i = 0; i < n; i++) {
-            if (visit[i] == false) {
-                bfs(i, mt, visit);
-                count++;
-            }
-        }
-        return count;
+    public  void dfs(int city,List<List<Integer>> adj,boolean visited[]){
+    visited[city]=true;
+   for(int val:adj.get(city) ){
+    if(!visited[val]){
+        dfs(val,adj,visited);
     }
-
-    public static void bfs(int i, int mt[][], boolean visit[]) {
-        Queue<Integer> q = new LinkedList<>();
-        q.add(i);
-        visit[i] = true;
-        int n = mt.length;
-
-        while (q.size() > 0) {
-            int front = q.remove();
-            for (int j = 0; j < n; j++) {
-                if (mt[front][j] == 1 && visit[j] == false){
-                    q.add(j);
-                visit[j] = true;}
-            }
+   }
+}
+    public int findCircleNum(int[][] mt) {
+int n=mt.length;
+List<List<Integer>> adj=new ArrayList<>();
+for(int i=0;i<n;i++){
+    adj.add(new ArrayList<>());
+}
+for(int i=0;i<n;i++){
+    for(int j=0;j<n;j++){
+        if(mt[i][j]==1&& i!=j){
+            adj.get(i).add(j);
         }
+    }}
+    int house=0;
+    boolean visited[]=new boolean[n];
+    for(int i=0;i<n;i++){
+        if(!visited[i]){
+house++;
+dfs(i,adj,visited);
+        }
+    }
+    return house;
     }
 }
