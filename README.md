@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1544-make-the-string-great](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/1544-make-the-string-great) |
 | [1598-crawler-log-folder](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/1598-crawler-log-folder) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1927-sum-game](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/1927-sum-game) |
 | [2000-reverse-prefix-of-word](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/2000-reverse-prefix-of-word) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/2696-minimum-string-length-after-removing-substrings) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-stone-game-iv](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/1563-stone-game-v) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [1927-sum-game](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/2029-stone-game-ix) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -394,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0011-container-with-most-water) |
 | [1386-cinema-seat-allocation](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/1386-cinema-seat-allocation) |
+| [1927-sum-game](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/2029-stone-game-ix) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Union-Find
@@ -425,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
