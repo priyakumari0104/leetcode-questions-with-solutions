@@ -1,6 +1,7 @@
 class Solution {
     public int totalNumbers(int[] digits) {
-        Set<Integer> ans=new HashSet<>();
+        // Set<Integer> ans=new HashSet<>();
+        int count=0;
         HashMap<Integer, Integer> map=new HashMap<>();
         int n=digits.length;
         for(int i=0;i<n;i++){
@@ -42,13 +43,12 @@ class Solution {
                     if(avail==true){
                         int number=i*100+j*10+k;
                         if(number%2==0){
-                            ans.add(number);
+                            count++;;
                         }
                     }
                 }
             }
         }
-int x=ans.size();
-return x;
+return count;
     }
 }
