@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0496-next-greater-element-i) |
 | [1386-cinema-seat-allocation](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/1386-cinema-seat-allocation) |
+| [2094-finding-3-digit-even-numbers](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/2094-finding-3-digit-even-numbers) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0242-valid-anagram](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0242-valid-anagram) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2094-finding-3-digit-even-numbers](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/2094-finding-3-digit-even-numbers) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Linked List
 |  |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0509-fibonacci-number) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [2094-finding-3-digit-even-numbers](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/2094-finding-3-digit-even-numbers) |
 | [2487-remove-nodes-from-linked-list](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Stack
 |  |
@@ -193,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1823-find-the-winner-of-the-circular-game](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2029-stone-game-ix](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/2029-stone-game-ix) |
+| [2094-finding-3-digit-even-numbers](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/2094-finding-3-digit-even-numbers) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -385,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2094-finding-3-digit-even-numbers](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/2094-finding-3-digit-even-numbers) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Heap (Priority Queue)
 |  |
