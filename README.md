@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1140-stone-game-ii](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/1140-stone-game-ii) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0509-fibonacci-number) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2487-remove-nodes-from-linked-list](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/2487-remove-nodes-from-linked-list) |
@@ -393,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0342-power-of-four) |
 | [1386-cinema-seat-allocation](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/1386-cinema-seat-allocation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
