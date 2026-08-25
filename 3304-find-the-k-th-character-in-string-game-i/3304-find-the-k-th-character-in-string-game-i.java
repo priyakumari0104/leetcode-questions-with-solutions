@@ -1,17 +1,22 @@
 class Solution {
     public char kthCharacter(int k) {
-        StringBuilder st=new StringBuilder("a");
-        while(st.length()<k){
-            StringBuilder sm=new StringBuilder();
-            for(int j=0;j<st.length();j++){
-                char ch=st.charAt(j);
-                char nextchar=(char)(ch+1);
-                sm.append(nextchar);
-            }
-            st.append(sm);
-        }
-        char ans=st.charAt(k-1);
-        return ans;
+        return solve(k);
+         }
+    public char solve(int k){
+if(k==1){
+    return 'a';
+}
+int len=1;
+while(len<k){
+    len*=2;
+}
+int half=len/2;
+if(k<=half){
+     return solve(half);
+}else{
+    char ch=solve(k-half);
+    return (char)('a'+(ch-'a'+1)%26);
+}
         
     }
     
