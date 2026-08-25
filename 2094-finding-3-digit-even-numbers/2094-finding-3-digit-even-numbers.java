@@ -1,28 +1,60 @@
 class Solution {
     public int[] findEvenNumbers(int[] digits) {
-        Set<Integer> temp=new HashSet<>();
-        int n=digits.length;
-        for(int i=0;i<n;i++){
-            for(int j=0;j<n;j++){
-                for(int k=0;k<n;k++){
-                    if(i==j||j==k||k==i){
-                        continue;
-                    }
-                    int number=(digits[i]*100)+(digits[j]*10)+(digits[k]*1);
-                     if((number>=100 && number<=999)&&number%2==0){
-                        temp.add(number);
-                     }
-                }
+int n=digits.length;
+Set<Integer>ans=new HashSet<>();
+HashMap<Integer,Integer> map=new HashMap<>();
+for(int i=0;i<n;i++){
+    int val=digits[i];
+    if(map.containsKey(val)){
+        map.put(val,map.get(val)+1);
+    }else{
+        map.put(val,1);
+    }
+}
+for(int i=1;i<=9;i++){
+    if(!map.containsKey(i)){
+        continue;
+    }
+    for(int j=0;j<=9;j++){
+        if(!map.containsKey(j)){
+            continue;
+        }
+        for(int k=0;k<=8;k+=2){
+            if(!map.containsKey(k)){
+                continue;
+            }
+        int ci=map.get(i);
+        int cj=map.get(j);
+        int ck=map.get(k);
+        boolean avail=false;
+        if(i==j&&j==k){
+            avail=ci>=3;
+        }else if(i==j){
+            avail=ci>=2&&ck>=1;
+        }else if(j==k){
+            avail=cj>=2&&ci>=1;
+        }else if(i==k){
+            avail=ci>=2&&cj>=1;
+        }else{
+            avail=ci>=1&&cj>=1&&ck>=1;
+        }
+        if(avail==true){
+            int num=i*100+j*10+k;
+            if(num%2==0){
+                ans.add(num);
             }
         }
-        int x= temp.size();
-        int res[]=new int[x];
-        int idx=0;
-        for(int num:temp){
-            res[idx]=num;
-            idx++;
         }
-        Arrays.sort(res);
-        return res;
+    }
+}
+int x=ans.size();
+int idx=0;
+int res[]=new int[x];
+for(int num:ans){
+res[idx]=num;
+idx++;
+}
+Arrays.sort(res);
+return res;
     }
 }
