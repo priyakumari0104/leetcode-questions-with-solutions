@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/2029-stone-game-ix) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## String Matching
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1823-find-the-winner-of-the-circular-game](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2094-finding-3-digit-even-numbers](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/2094-finding-3-digit-even-numbers) |
 | [2487-remove-nodes-from-linked-list](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/2487-remove-nodes-from-linked-list) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Stack
 |  |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3174-clear-digits](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/3174-clear-digits) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -409,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0342-power-of-four) |
 | [1386-cinema-seat-allocation](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/1386-cinema-seat-allocation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Greedy
 |  |
