@@ -10,29 +10,35 @@
  */
 class Solution {
     public int[] nodesBetweenCriticalPoints(ListNode head) {
-        List<Integer> ans=new ArrayList<>();
-        ListNode prev=head;
-        ListNode curr=head.next;
-        int j=1;
-        while(curr.next!=null){
-        if(prev.val>curr.val&&curr.next.val>curr.val){
-            ans.add(j);
+     ListNode prev=head;
+     ListNode curr=head.next;
+     int index=1;
+     int prevcritical=-1;
+     int firstcritical=-1;
+     int mindistance=Integer.MAX_VALUE;
+     while(curr.next!=null){
+        boolean critical=(prev.val>curr.val&&curr.val<curr.next.val)||
+        (prev.val<curr.val&&curr.val>curr.next.val);
+        if(critical){
+            if(firstcritical==-1){
+                firstcritical=index;
+            }
+            if(prevcritical!=-1){
+                mindistance=Math.min(
+                    mindistance,
+                    index-prevcritical
+                );
+            }
+            prevcritical=index;
         }
-        if(prev.val<curr.val&&curr.next.val<curr.val){
-            ans.add(j);
-        }
-        j++;
         prev=curr;
         curr=curr.next;
-        }
-        if(ans.size()<2){
-            return new int[]{-1,-1};
-        }
-        int mindistance=Integer.MAX_VALUE;
-        for(int i=1;i<ans.size();i++){
-            mindistance=Math.min(mindistance,(ans.get(i)-ans.get(i-1)));
-        }
-        int maxdistance=ans.get(ans.size()-1)-ans.get(0);
-        return new int[]{mindistance,maxdistance};
+        index++;
+     }
+     if(firstcritical==-1||firstcritical==prevcritical){
+     return new int []{-1,-1};
+     }
+     int maxdistance=prevcritical-firstcritical;
+     return new int[]{mindistance,maxdistance};
     }
 }
