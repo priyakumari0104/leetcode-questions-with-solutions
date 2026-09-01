@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0136-single-number](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0229-majority-element-ii) |
 | [0496-next-greater-element-i](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0496-next-greater-element-i) |
@@ -425,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0342-power-of-four) |
 | [1386-cinema-seat-allocation](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/1386-cinema-seat-allocation) |
