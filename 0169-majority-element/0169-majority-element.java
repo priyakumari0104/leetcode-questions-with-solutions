@@ -1,20 +1,26 @@
 class Solution {
     public int majorityElement(int[] arr) {
-      
-      int n=arr.length;
-      
+       int n=arr.length;
+      int ele=-1;
+      int count=0;
       for(int i=0;i<n;i++){
-        int count=0;
-        int val=arr[i];
-        for(int j=0;j<n;j++){
-                if(arr[j]==arr[i]){
-                    count++;
-                }
-        }
-        if(count>n/2){
-            return val;
+        if(count==0){
+            count=1;
+            ele=arr[i];
+        }else if(arr[i]==ele){
+            count++;
+        }else{
+            count--;
         }
       }
-      return -1;
+int count1=0;
+for(int i=0;i<n;i++){
+    if(arr[i]==ele){
+        count1++;
+    }
+}if(count1>n/2){
+    return ele;
+}
+  return -1;   
     }
 }
