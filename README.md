@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0165-compare-version-numbers](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0165-compare-version-numbers) |
 | [0234-palindrome-linked-list](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0283-move-zeroes) |
 | [0876-middle-of-the-linked-list](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0876-middle-of-the-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2000-reverse-prefix-of-word](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/2000-reverse-prefix-of-word) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0229-majority-element-ii) |
+| [0283-move-zeroes](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0682-baseball-game) |
