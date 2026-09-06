@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0165-compare-version-numbers](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0165-compare-version-numbers) |
+| [0189-rotate-array](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0283-move-zeroes) |
 | [0876-middle-of-the-linked-list](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0876-middle-of-the-linked-list) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0067-add-binary) |
+| [0189-rotate-array](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0342-power-of-four) |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0496-next-greater-element-i) |
