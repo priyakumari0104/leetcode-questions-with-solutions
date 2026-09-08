@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0038-count-and-say) |
+| [0049-group-anagrams](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0165-compare-version-numbers) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0036-valid-sudoku) |
+| [0049-group-anagrams](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0141-linked-list-cycle) |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0229-majority-element-ii) |
@@ -210,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0031-next-permutation) |
 | [0036-valid-sudoku](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0039-combination-sum) |
+| [0049-group-anagrams](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0056-merge-intervals) |
 | [0084-largest-rectangle-in-histogram](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
