@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1386-cinema-seat-allocation](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/1386-cinema-seat-allocation) |
 | [2094-finding-3-digit-even-numbers](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/2094-finding-3-digit-even-numbers) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0503-next-greater-element-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0682-baseball-game](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0682-baseball-game) |
 | [0746-min-cost-climbing-stairs](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [1140-stone-game-ii](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/1140-stone-game-ii) |
@@ -509,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1140-stone-game-ii](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/1140-stone-game-ii) |
 ## Game Theory
 |  |
