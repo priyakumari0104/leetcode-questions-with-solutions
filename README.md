@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0876-middle-of-the-linked-list](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0876-middle-of-the-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2000-reverse-prefix-of-word](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/2000-reverse-prefix-of-word) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0496-next-greater-element-i](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -421,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0287-find-the-duplicate-number](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -471,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0231-power-of-two) |
+| [0287-find-the-duplicate-number](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0342-power-of-four) |
 | [1386-cinema-seat-allocation](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/1386-cinema-seat-allocation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -580,4 +584,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0056-merge-intervals) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
