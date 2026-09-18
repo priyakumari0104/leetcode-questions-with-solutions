@@ -238,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0238-product-of-array-except-self) |
+| [0240-search-a-2d-matrix-ii](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0496-next-greater-element-i](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0496-next-greater-element-i) |
@@ -420,11 +421,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0169-majority-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0240-search-a-2d-matrix-ii](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
@@ -563,6 +566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0079-word-search) |
+| [0240-search-a-2d-matrix-ii](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 ## Counting
 |  |
 | ------- |
