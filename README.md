@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0392-is-subsequence) |
 | [0876-middle-of-the-linked-list](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0876-middle-of-the-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2000-reverse-prefix-of-word](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/2000-reverse-prefix-of-word) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0392-is-subsequence) |
 | [0686-repeated-string-match](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0686-repeated-string-match) |
 | [1544-make-the-string-great](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/1544-make-the-string-great) |
 | [1598-crawler-log-folder](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/1598-crawler-log-folder) |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0392-is-subsequence](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/1137-n-th-tribonacci-number) |
