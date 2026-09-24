@@ -277,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0977-squares-of-a-sorted-array](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1140-stone-game-ii](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/1140-stone-game-ii) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1386-cinema-seat-allocation](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/1386-cinema-seat-allocation) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1563-stone-game-v](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/1563-stone-game-v) |
@@ -581,6 +582,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0643-maximum-average-subarray-i) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
