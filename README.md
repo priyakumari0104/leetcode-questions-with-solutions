@@ -271,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0643-maximum-average-subarray-i](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0682-baseball-game) |
 | [0746-min-cost-climbing-stairs](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0977-squares-of-a-sorted-array](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -578,6 +579,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0643-maximum-average-subarray-i](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Segment Tree
