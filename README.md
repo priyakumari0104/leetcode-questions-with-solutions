@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0125-valid-palindrome](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0125-valid-palindrome) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0242-valid-anagram) |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0084-largest-rectangle-in-histogram) |
@@ -614,6 +617,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0075-sort-colors) |
 ## Pigeonhole Principle
 |  |
 | ------- |
@@ -622,4 +626,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0287-find-the-duplicate-number) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
