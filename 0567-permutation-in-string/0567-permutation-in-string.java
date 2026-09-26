@@ -1,40 +1,39 @@
 class Solution {
     public boolean checkInclusion(String s1, String s2) {
-        int n=s1.length();
-        int left=0;
-        int right=left+n;
-        int m=s2.length();
-        while(right<=m){
-            String t1=s2.substring(left,right);
-            if(valid(s1,t1)){
-                return true;
-            }
-            left++;
-            right++;
-        }
+       int n=s1.length();
+       int m=s2.length();
+       if(n>m){
         return false;
-    }
-    public boolean valid(String s,String t){
-        int n=s.length();
-        int m=t.length();
-        if(n!=m){
-            return false;
+       }
+       int freq[]=new int[26];
+       for(int i=0;i<n;i++){
+        int val=(int)s1.charAt(i)-'a';
+        freq[val]++;
+       }
+      String str=s2.substring(0,n);
+      int temp[]=new int[26];
+      for(int i=0;i<str.length();i++){
+        int val=(int)str.charAt(i)-'a';
+        temp[val]++;
+      }
+      int left=0;
+      int right=n;
+      while(right<=m){
+        if(Arrays.equals(freq,temp)){
+            return true;
         }
-        HashMap<Character,Integer> map=new HashMap<>();
-        for(int i=0;i<n;i++){
-            char ch=s.charAt(i);
-            map.put(ch,map.getOrDefault(ch,0)+1);
+        if(right==m){
+            break;
         }
-        for(int j=0;j<n;j++){
-            char ch=t.charAt(j);
-            if(!map.containsKey(ch)){
-                return false;
-            }
-            map.put(ch,map.get(ch)-1);
-            if(map.get(ch)==0){
-                map.remove(ch);
-            }
-        }
-        return map.isEmpty();
+        int leftval=(int)s2.charAt(left)-'a';
+        temp[leftval]--;
+        left++;
+        
+        int val=(int)s2.charAt(right)-'a';
+        temp[val]++;
+        right++;
+        
+      }
+      return false;
     }
 }
