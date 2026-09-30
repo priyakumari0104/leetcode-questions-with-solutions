@@ -284,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0682-baseball-game) |
+| [0713-subarray-product-less-than-k](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0746-min-cost-climbing-stairs](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0977-squares-of-a-sorted-array](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1140-stone-game-ii](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/1140-stone-game-ii) |
@@ -473,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0713-subarray-product-less-than-k](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Database
@@ -565,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0713-subarray-product-less-than-k](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [1140-stone-game-ii](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/1140-stone-game-ii) |
 ## Game Theory
 |  |
@@ -599,6 +602,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0643-maximum-average-subarray-i) |
+| [0713-subarray-product-less-than-k](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
