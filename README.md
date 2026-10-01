@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0567-permutation-in-string) |
+| [0904-fruit-into-baskets](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0904-fruit-into-baskets) |
 | [1386-cinema-seat-allocation](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/1386-cinema-seat-allocation) |
 | [2094-finding-3-digit-even-numbers](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/2094-finding-3-digit-even-numbers) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0682-baseball-game) |
 | [0713-subarray-product-less-than-k](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0746-min-cost-climbing-stairs](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0746-min-cost-climbing-stairs) |
+| [0904-fruit-into-baskets](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1140-stone-game-ii](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/1140-stone-game-ii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -603,6 +605,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0713-subarray-product-less-than-k) |
+| [0904-fruit-into-baskets](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0904-fruit-into-baskets) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
