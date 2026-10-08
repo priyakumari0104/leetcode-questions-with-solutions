@@ -3,19 +3,17 @@ class Solution {
         if(s.length()!=t.length()){
             return false;
         }
-      HashMap<Character,Integer> map= new HashMap<>();
-      for(char ch: s.toCharArray()){
-        map.put(ch,map.getOrDefault(ch,0)+1);
-      }
-      for(char ch: t.toCharArray()){
-        if(!map.containsKey(ch)){
-            return false;
+        HashMap<Character,Integer>map=new HashMap<>();
+        for(int i=0;i<s.length();i++){
+            char ch1=s.charAt(i);
+            map.put(ch1,map.getOrDefault(ch1,0)+1);
         }
-        map.put(ch,map.get(ch)-1);
-        if(map.get(ch)==0){
-            map.remove(ch);
+        for(int i=0;i<t.length();i++){
+            map.put(t.charAt(i),map.getOrDefault(t.charAt(i),0)-1);
+            if(map.get(t.charAt(i))==0){
+                map.remove(t.charAt(i));
+            }
         }
-      }
-      return map.isEmpty();
+        return map.isEmpty();
     }
 }
