@@ -666,4 +666,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0075-sort-colors) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
