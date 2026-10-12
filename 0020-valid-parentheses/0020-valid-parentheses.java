@@ -10,12 +10,12 @@ class Solution {
         return false;
     }
 public boolean isValid(String s) {
-  Stack<Character> st=new Stack<>();
-  int n=s.length();
-  for(int i=0;i<n;i++){
+   Stack<Character>st=new Stack<>();
+   int n=s.length();
+   for(int i=0;i<n;i++){
     char ch=s.charAt(i);
     if(st.size()==0){
-        if(ch==']'||ch=='}'||ch==')'){
+        if(ch==']'||ch==')'||ch=='}'){
             return false;
         }else{
             st.push(ch);
@@ -28,7 +28,7 @@ public boolean isValid(String s) {
             st.push(ch);
         }
     }
-  }
-return st.isEmpty();
+   }
+   return st.isEmpty();
         }
 }
