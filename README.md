@@ -383,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0404-sum-of-left-leaves) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -407,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0404-sum-of-left-leaves) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -440,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0404-sum-of-left-leaves) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -494,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0240-search-a-2d-matrix-ii](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
