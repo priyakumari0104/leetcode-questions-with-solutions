@@ -15,25 +15,23 @@
  */
 class Solution {
     public List<String> binaryTreePaths(TreeNode root) {
-        
-        
         List<String> l1=new ArrayList<>();
         traversal(root,"",l1);
         return l1;
     }
-    public void traversal(TreeNode node,String str,List l1){
-        if(node ==null){
+    public void traversal(TreeNode root,String st,List<String> l1){
+        if(root==null){
             return ;
         }
-        if(str.isEmpty()){
-            str=str+node.val;
+        if(st.length()==0){
+            st=st+root.val;
         }else{
-            str=str+"->"+node.val;
+            st=st+"->"+root.val;
         }
-        if(node.left==null&&  node.right==null){
-            l1.add(str);
+        if(root.left==null&&root.right==null){
+            l1.add(st);
         }
-        traversal(node.left,str,l1);
-        traversal(node.right,str,l1);
+        traversal(root.left,st,l1);
+        traversal(root.right,st,l1);
     }
 }
