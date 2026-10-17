@@ -15,18 +15,18 @@
  */
 class Solution {
     public TreeNode sortedArrayToBST(int[] nums) {
-
-         return build(nums,0,nums.length-1);
+          return build(nums,0,nums.length-1);
+      
         
     }
-    public TreeNode build(int arr[],int left,int right){
-        if(left>right){
+    public TreeNode build(int []nums,int start,int end){
+        if(start>end){
             return null;
         }
-        int mid=(left+right)/2;
-        TreeNode root=new TreeNode(arr[mid]);
-       root.left= build(arr,left,mid-1);
-        root.right=build(arr,mid+1,right);
+        int mid=(start+end)/2;
+        TreeNode root=new TreeNode(nums[mid]);
+        root.left=build(nums,start,mid-1);
+        root.right=build(nums,mid+1,end);
         return root;
     }
 }
