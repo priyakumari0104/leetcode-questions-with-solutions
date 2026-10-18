@@ -2,7 +2,8 @@ class Solution {
     public int thef(int nums[],int dp[],int n){
         if(n==1){
             return nums[0];
-        }if(n==2){
+        }
+        if(n==2){
             return Math.max(nums[0],nums[1]);
         }
         if(dp[n]!=-1){
@@ -25,8 +26,8 @@ class Solution {
         Arrays.fill(dp2,-1);
         dp1[0]=nums[0];
         dp2[0]=nums[1];
-        int[] arr1 = Arrays.copyOfRange(nums, 0, n - 1);
-        int[] arr2 = Arrays.copyOfRange(nums, 1, n);
+        int arr1[]=Arrays.copyOfRange(nums,0,n-1);
+        int arr2[]=Arrays.copyOfRange(nums,1,n);
         return Math.max(thef(arr1,dp1,arr1.length),thef(arr2,dp2,arr2.length));
     }
 }
