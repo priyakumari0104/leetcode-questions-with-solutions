@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0042-trapping-rain-water) |
+| [0070-climbing-stairs](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0392-is-subsequence](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0392-is-subsequence) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0326-power-of-three) |
@@ -538,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/priyakumari0104/leetcode-questions-with-solutions/tree/master/1137-n-th-tribonacci-number) |
 ## Bracket Sequences
