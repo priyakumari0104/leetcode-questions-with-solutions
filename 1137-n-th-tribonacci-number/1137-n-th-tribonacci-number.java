@@ -1,25 +1,21 @@
 class Solution {
-    public int tribonacci(int n) {
+    public int tri(int n,int []dp){
         if(n==0){
             return 0;
         }
-        if(n==1||n==2){
+        if(n==2||n==1){
             return 1;
         }
-       int dp[]=new int[n+1];
-       return solve(n,dp);
-
+        if(dp[n]!=-1){
+            return dp[n];
+        }
+        dp[n]=tri(n-1,dp)+tri(n-2,dp)+tri(n-3,dp);
+        return dp[n];
     }
-    public int solve(int idx,int dp[]){
-        
-        dp[0]=0;
-        dp[1]=1;
-        dp[2]=1;
-        if(dp[idx]!=0){
-            return dp[idx];
-         }
-         
-         solve(idx-1,dp);
-         return dp[idx]=dp[idx-1]+dp[idx-2]+dp[idx-3];
+    public int tribonacci(int n) {
+        int dp[]=new int[n+1];
+        Arrays.fill(dp,-1);
+
+        return tri(n,dp);
     }
 }
